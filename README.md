@@ -19,17 +19,17 @@ MultiAPI-Spoof is a multi-source audio anti-spoofing dataset that contains appro
     <tr>
       <td>
         <audio controls>
-          <source src="audio_samples/Commercial_TTS_APIs/1.wav" type="audio/mpeg">
+          <source src="audio_samples/Commercial_TTS_APIs/A2_41722.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/Commercial_TTS_APIs/2.flac" type="audio/mpeg">
+          <source src="audio_samples/Commercial_TTS_APIs/A4_44795.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/Commercial_TTS_APIs/3.wav" type="audio/mpeg">
+          <source src="audio_samples/Commercial_TTS_APIs/A18_4526.mp3" type="audio/mpeg">
         </audio>
       </td>
     </tr>
@@ -43,17 +43,17 @@ MultiAPI-Spoof is a multi-source audio anti-spoofing dataset that contains appro
     <tr>
       <td>
         <audio controls>
-          <source src="audio_samples/Open-Source_Models/1.wav" type="audio/mpeg">
+          <source src="audio_samples/Open-Source_Models/A5_74256.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/Open-Source_Models/2.flac" type="audio/mpeg">
+          <source src="audio_samples/Open-Source_Models/A9_79829.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/Open-Source_Models/3.wav" type="audio/mpeg">
+          <source src="audio_samples/Open-Source_Models/A19_122664.mp3" type="audio/mpeg">
         </audio>
       </td>
     </tr>
@@ -67,17 +67,17 @@ MultiAPI-Spoof is a multi-source audio anti-spoofing dataset that contains appro
     <tr>
       <td>
         <audio controls>
-          <source src="audio_samples/TTS_Websites/1.wav" type="audio/mpeg">
+          <source src="audio_samples/TTS_Websites/A17_47336.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/TTS_Websites/2.flac" type="audio/mpeg">
+          <source src="audio_samples/TTS_Websites/A28_58174.mp3" type="audio/mpeg">
         </audio>
       </td>
       <td>
       <audio controls>
-          <source src="audio_samples/TTS_Websites/3.wav" type="audio/mpeg">
+          <source src="audio_samples/TTS_Websites/A28_58186.mp3" type="audio/mpeg">
         </audio>
       </td>
     </tr>
